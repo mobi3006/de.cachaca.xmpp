@@ -1,0 +1,12 @@
+Jitsi Meet - select room - https://your-server.com:7443/ofmeet
+specify room - https://your-server.com:7443/ofmeet/?r=xxxxx
+audio only (no video) - https://your-server.com:7443/ofmeet/?r=xxxxx&novideo=true
+
+Spark Plugin - download https://your-server.com:7443/ofmeet/spark/ofmeet-plugin.jar
+
+Candy - https://your-server.com:7443/ofmeet/candy.html
+
+JavaScript example - https://your-server.com:7443/ofmeet/api
+
+
+Plugins werden dann direkt aus dem Internet gezigen
